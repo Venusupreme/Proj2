@@ -1,0 +1,9 @@
+/home/birb/Documents/Proj2/obj/Debug/net8.0/Proj2.csproj.AssemblyReference.cache
+/home/birb/Documents/Proj2/obj/Debug/net8.0/Proj2.GeneratedMSBuildEditorConfig.editorconfig
+/home/birb/Documents/Proj2/obj/Debug/net8.0/Proj2.AssemblyInfoInputs.cache
+/home/birb/Documents/Proj2/obj/Debug/net8.0/Proj2.AssemblyInfo.cs
+/home/birb/Documents/Proj2/obj/Debug/net8.0/Proj2.csproj.CoreCompileInputs.cache
+/home/birb/Documents/Proj2/obj/Debug/net8.0/Proj2.MvcApplicationPartsAssemblyInfo.cache
+/home/birb/Documents/Proj2/obj/Debug/net8.0/Proj2.RazorAssemblyInfo.cache
+/home/birb/Documents/Proj2/obj/Debug/net8.0/Proj2.RazorAssemblyInfo.cs
+/home/birb/Documents/Proj2/obj/Debug/net8.0/Proj2.sourcelink.json
