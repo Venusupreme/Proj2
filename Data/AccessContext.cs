@@ -18,10 +18,12 @@ namespace Proj2.Data
         public DbSet<Users> users{get; set;}
         protected override void OnModelCreating (ModelBuilder modelBuilder)
         {
+            /*
             modelBuilder.Entity<Student>().ToTable("Student");
             modelBuilder.Entity<Faculty>().ToTable("Faculty");
             modelBuilder.Entity<General_Staff>().ToTable("General_Staff");
             modelBuilder.Entity<Check_In_Table>().ToTable("Check_In_Table");
+        */
         }
         
         public DbSet<Proj2.Models.Maintenance_Requests> Maint_Req_Table { get; set; } = default!;

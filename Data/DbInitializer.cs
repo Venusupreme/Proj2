@@ -12,7 +12,7 @@ namespace Proj2.Data
             }
             var MaintReqs=new Maintenance_Requests[]
             {
-                new Maintenance_Requests{ID=1234567890,First_Name="Raven",Last_Name="Halbruner",Check_In_Time=DateTime.Parse("2024-01-01 12:00:00"),Check_Out_Time=DateTime.Parse("2024-01-01 12:30:49")}
+                new Maintenance_Requests{ID=1234567890,Request_ID=0, Tenant_ID=0, Date=DateTime.Parse("2024-01-01 12:00:00"),Location_1="Test",Details_1="Test", Completion_Status=0}
 
             };
             //accessContext.Maint_Req_Table.AddRange(CheckIn);
